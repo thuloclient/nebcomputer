@@ -9,5 +9,6 @@
 
 ### Android App Name: NEB Computer 12
 ## Download Link: http://bit.ly/2QPhcbU
+## Video: https://www.youtube.com/watch?v=yC6-jKyt9Kw&list=PL9L8qlWfNf-KCD3HvKsMlDdJHKnoo4zWd
 
 # NEBComputer #NEBComputer12 #NEBComputer11
